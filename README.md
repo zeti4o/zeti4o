@@ -1,7 +1,5 @@
 # _Olá, meu nome é Gabriel Franco e aqui é onde deixo alguns projetos_
 
- ## _Linguagem atual: Python 3.10_
-
 ### **Repositórios que eu deixo aqui:** 
 
 - _Projetos de portifólio_
